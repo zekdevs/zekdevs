@@ -2,7 +2,6 @@
 
 ### I am a Sofware Engineer and Designer
 - I am currently working on building developer tools and whatever else interests me at the time
-- Interested in Software Architecture, Developer Tooling, DevOps, Machine Learning, Cloud Computing, and Blockchain
 
 A lot of my current work is at an enterprise level, so my github is a litle bare :)
 
